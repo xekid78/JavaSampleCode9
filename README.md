@@ -1,4 +1,4 @@
-# Java_SampleCode9
+# JavaSampleCode9
 標準入力
 
 #### 処理
